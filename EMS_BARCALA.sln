@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EMS_BARCALA", "EMS_BARCALA.csproj", "{967BABC3-1F01-4366-8CDA-5605B5C44EBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{967BABC3-1F01-4366-8CDA-5605B5C44EBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{967BABC3-1F01-4366-8CDA-5605B5C44EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{967BABC3-1F01-4366-8CDA-5605B5C44EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{967BABC3-1F01-4366-8CDA-5605B5C44EBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DF6EB50-C33E-4DD0-B4F8-9A2EBFDA45C5}
+	EndGlobalSection
+EndGlobal
